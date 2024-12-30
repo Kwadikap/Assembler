@@ -27,7 +27,7 @@ To use the assembler, provide the `.asm` file you want to translate as a command
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/hack-assembler.git
+   git clone https://github.com/Kwadikap/Assembler.git
    cd hack-assembler
    ```
 
